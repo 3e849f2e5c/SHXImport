@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SHXExport.iml" filepath="$PROJECT_DIR$/.idea/SHXExport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SHXImport.iml" filepath="$PROJECT_DIR$/.idea/SHXImport.iml" />
     </modules>
   </component>
 </project>
